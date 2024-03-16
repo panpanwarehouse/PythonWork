@@ -1,0 +1,685 @@
+{
+"1-0": {"text": "Alex： 你好,你好,该死的终于有信号了","options": []},
+"1-1": {"text": "Alex： 我们的飞机坠机了","options": []},
+"1-2":{"text": "Alex：你能看到我发的信息吗","options": [{"choose": "可以","to": "1-4"},{"choose": "不可以","to": "1-3"}]},
+"1-3":{ "text": "Alex：你真会开玩笑","options": []},
+"1-4":{ "text": "Alex：哈哈，上帝啊终于有救了","options": []},
+"1-5":{"text": "Alex：我不知道我在哪里，这里好像是个岛","options": []},
+"1-6":{"text": "Alex：你可以帮我去申请救援吗","options": [{"choose": "好的","to": "1-7"},{"choose": "不可以","to": "3-82"}]},
+"1-7":{"text": "Alex：今天好像是1993年2月18","options": []},
+"1-8":{"text": "Alex：十分感谢","options": []},
+"1-9":{"text": "Alex：应该是上帝听到了我的呼唤","options": []},
+"1-10":{"text": "You：你应该感谢的人是我而不是上帝","options": []},
+"1-11":{"text": "You：救援不是一两天的事","options": []},
+"1-12":{"text": "You：好了我已经为你申请了救援","options": []},
+"1-13":{"text": "Alex：我亲爱的朋友实在是太感谢你了","options": []},
+"1-14":{"text": "Alex：我得为我的食物做准备了，已经不多了。","options": []},
+"1-15":{"text": "Alex：希望能熬过这几天","options": []},
+"1-16":{"text": "Alex：你还有什么要说的吗，我得出发了","options": [{"choose": "好的","to": "2-1"},{"choose": "other","to": "1-17"}]},
+"1-17":{"text": "......过了一天","options": []},
+"1-18":{"text": "You：应该没有出什么问题吧","options": []},
+"1-19":{"text": "Alex：难以想象","options": []},
+"1-20":{"text": "Alex：昨天在寻找食物的路上遇到了土著人","options": []},
+"1-21":{"text": "Alex：他们很友好","options": []},
+"1-22":{"text": "Alex：联系了救援队，现在已经在回家的路上了","options": []},
+"1-23":{"text": "Alex：这可比你喊的救援队快多了","options": [{"choose": "好的","to": "6-233"},{"choose": "不可以","to": "9-1"}]},
+
+"2-1":{"text": "Alex：我可不想这种地方丢掉我的性命","options": []},
+"2-2":{"text": "You：有野外生存经验吗，记得远离沼泽","options": []},
+"2-3":{"text": "You：而且不知道你的坠落的对方有没有熊","options": []},
+"2-4":{"text": "You：这个可危险了","options": []},
+"2-5":{"text": "Alex：啊，看来你懂得很多野外生存技巧","options": []},
+"2-6":{"text": "Alex：怕了怕了，看来朋友你得跟着我一起了","options": []},
+"2-7":{"text": "......过了一会","options": []},
+"2-8":{"text": "Alex：我发现这灌木丛上结满了紫色的小果子","options": []},
+"2-9":{"text": "Alex：我得拿东西装一点","options": []},
+"2-10":{"text": "You：不认识最好不要采摘食用","options": []},
+"2-11":{"text": "Alex：我的确不认识","options": []},
+"2-12":{"text": "Alex：食用一点没关系吧，已经太饿了","options": [{"choose": "好的","to": "2-13"},{"choose": "other","to": "2-25"}]},
+"2-13":{"text": "Alex：我已经迫不及待了","options": []},
+"2-14":{"text": "Alex：这味道真不怎么好，太苦涩了","options": []},
+"2-15":{"text": "Alex：还是咽下去吧不进行咀嚼","options": []},
+"2-16":{"text": "Alex：再摘点就回去了，搭建一个临时的庇护所","options": []},
+"2-17":{"text": "......过了一会","options": []},
+"2-18":{"text": "Alex：朋友我现在感觉头晕目眩的","options": []},
+"2-19":{"text": "Alex：肚子也特别痛","options": []},
+"2-20":{"text": "Alex：不行了我得找个地方休息一下","options": []},
+"2-21":{"text": "You：不行啊天快黑了不能待在这种地方","options": []},
+"2-22":{"text": "......过了一会","options": []},
+"2-23":{"text": "......过了一会","options": []},
+"2-24":{"text": "......过了几天","options": [{"choose": "好的","to": "9-4"},{"choose": "other","to": "9-4"}]},
+"2-25":{"text": "Alex：好的那我再去别处看看","options": []},
+"2-26":{"text": "......过了一会","options": []},
+"2-27":{"text": "Alex：我找到了一条小溪","options": []},
+"2-28":{"text": "Alex：里面还有几条个头不错的鱼","options": []},
+"2-29":{"text": "Alex：但是我不知道怎么处理掉","options": []},
+"2-30":{"text": "Alex：在旁边还有几颗果树","options": []},
+"2-31":{"text": "Alex：可真甜啊","options": []},
+"2-32":{"text": "Alex：看来今天就只能看着鱼吃果子了","options": []},
+"2-33":{"text": "Alex：这鱼看起来可真‘鲜甜脆口’啊","options": []},
+"2-34":{"text": "Alex：哈哈，我有点想吃","options": []},
+"2-35":{"text": "Alex：你会弄吗","options": [{"choose": "好的","to": "2-36"},{"choose": "other","to": "2-36"}]},
+
+"2-36":{"text": "You：不管会不会都没办法","options": []},
+"2-37":{"text": "You：天要黑了，这个时候处理的话怕出问题","options": []},
+"2-38":{"text": "You：你不是说有几颗果树吗","options": []},
+"2-39":{"text": "You：今晚你就找个合适的树上睡一晚","options": []},
+"2-40":{"text": "You：这也是比较好的方法度过今晚","options": []},
+"2-41":{"text": "Alex：好的我现在就看看那一颗比较合适","options": []},
+"2-42":{"text": "......天渐渐黑下来了","options": []},
+"2-43":{"text": "Alex：朋友在吗，我现在感到非常害怕","options": []},
+"2-44":{"text": "Alex：这里很亮，但是旁边的深林很黑","options": []},
+"2-45":{"text": "Alex：睡眠很不好","options": []},
+"2-46":{"text": "Alex：旁边一直有呜呜的蚊子声音","options": []},
+"2-47":{"text": "......过了一会","options": []},
+"2-48":{"text": "Alex：朋友你猜我看到了什么","options": []},
+"2-49":{"text": "Alex：一头体型庞大的巨熊","options": []},
+"2-50":{"text": "Alex：刚开始的时候就听到一点动物喘气的声音","options": []},
+"2-51":{"text": "Alex：我还以为我听错了","options": []},
+"2-52":{"text": "Alex：但是声音越来越大，就像要往我这里来一样","options": []},
+"2-53":{"text": "Alex：天啊，他从我的树下过去小溪边喝水","options": []},
+"2-54":{"text": "Alex：现在我不敢发出一点声音","options": []},
+
+"2-55":{"text": "Alex：天啊，我该怎么办","options": [{"choose": "好的","to": "2-36"},{"choose": "other","to": "2-67"}]},
+"2-56":{"text": "Alex：好的我这就尝试将他驱赶","options": []},
+"2-57":{"text": "......过了一会","options": []},
+"2-58":{"text": "Alex：我引起了他的注意","options": []},
+"2-59":{"text": "Alex：但是无论我怎么吼叫它都没有离开","options": []},
+"2-60":{"text": "......过了一会","options": []},
+"2-61":{"text": "Alex：他好像朝我走过来了","options": []},
+"2-62":{"text": "Alex：他要攻击我了","options": []},
+"2-63":{"text": "You：坚持住坚持住","options": []},
+"2-64":{"text": "......过了一会","options": []},
+"2-65":{"text": "......过了一会","options": []},
+
+"2-66":{"text": "......过了几天","options": [{"choose": "好的","to": "9-4"},{"choose": "other","to": "9-4"}]},
+"2-67":{"text": "You：现在你要把你的通讯设备关掉","options": []},
+"2-68":{"text": "You：切记不要大喊大叫","options": []},
+"2-69":{"text": "You：或者因为害怕发出声音","options": []},
+"2-70":{"text": "You：不要引起熊的注意","options": []},
+"2-71":{"text": "......过了一晚","options": []},
+"2-72":{"text": "Alex：朋友昨晚的经历真可怕啊","options": []},
+"2-73":{"text": "Alex：从来没有见到过那么大的熊","options": []},
+"2-74":{"text": "Alex：它看起来比5个我都壮","options": []},
+"2-75":{"text": "Alex：这次多亏你了","options": []},
+"2-76":{"text": "You：你没事就好","options": []},
+"2-77":{"text": "You：对了救援队那边说可能还有两天才能到","options": []},
+"2-78":{"text": "You：你得做好准备再坚持两天","options": []},
+"2-79":{"text": "Alex：那我今天去多收集一些物质","options": []},
+"2-80":{"text": "Alex：然后寻找一个临时的居住点","options": []},
+"2-81":{"text": "You：不知道救援队到底还有多久啊（喃喃道...）","options": []},
+"3-82":{"text": "You：你需要帮助","options": []},
+
+"3-83":{"text": "Alex：我需要食物和水","options": []},
+"3-84":{"text": "Alex：我发现了椰子树","options": []},
+"3-85":{"text": "You：好的，去寻找椰子","options": []},
+"3-86":{"text": "Alex：我找到了椰子","options": []},
+"3-87":{"text": "Alex：它太坚硬了","options": []},
+"3-88":{"text": "you：用石头敲椰子壳取出果肉","options": []},
+"3-89":{"text": "Alex：好的，成功打开椰子","options": []},
+"3-90":{"text": "Alex：我需要寻找更多食物和水","options": []},
+"3-91":{"text": "Alex：好的，我会继续寻找","options": []},
+"3-92":{"text": "You：发现了什么","options": []},
+"3-93":{"text": "Alex：河流，但不确定水是否安全","options": []},
+"3-94":{"text": "You：用感官来判断水是否适合饮用","options": []},
+"3-95":{"text": "Alex：糟糕，水质不可以直接饮用","options": []},
+"3-96":{"text": "You：尝试用火煮沸","options": []},
+"3-97":{"text": "Alex：我会小心处理水源","options": []},
+"3-98":{"text": "Alex：我发现野兔","options": []},
+"3-99":{"text": "Alex：不知道怎么捕捉","options": []},
+"3-100":{"text": "You：建造了一个陷阱","options": []},
+"3-101":{"text": "You：用食物吸引野兔进入","options": []},
+"3-102":{"text": "Alex：好的，我成功了","options": []},
+"3-103":{"text": "Alex：捕捉到了一只野兔","options": []},
+"3-104":{"text": "You：需要学会如何生火","options": []},
+"3-105":{"text": "Alex：我会尝试生火","options": []},
+"3-106":{"text": "You：试着用石头生火","options": []},
+"3-107":{"text": "Alex：没有成功","options": []},
+"3-108":{"text": "You：需要找易燃的物品","options": []},
+"3-109":{"text": "Alex：找到干草和树皮","options": []},
+"3-110":{"text": "You：用砖木取火","options": []},
+"3-111":{"text": "Alex：还是无法生火","options": []},
+"3-112":{"text": "Alex：那现在怎么办","options": []},
+"3-113":{"text": "You：用反光物品反射","options": []},
+"3-114":{"text": "Alex：用反光物品，对吗","options": []},
+"3-115":{"text": "Alex：我发现了镜子碎片","options": []},
+"3-116":{"text": "Alex：把阳光反射到易燃物品上，对吗","options": []},
+"3-117":{"text": "Alex：我成功了","options": []},
+"3-118":{"text": "You：需要建造一个避难所","options": []},
+"3-119":{"text": "Alex：但是我不知道如何搭建","options": []},
+"3-120":{"text": "Alex：你可以告诉我吗","options": []},
+"3-121":{"text": "Alex：马上去找材料","options": []},
+"3-122":{"text": "Alex：我建好了","options": []},
+"3-123":{"text": "Alex：但它不够坚固","options": []},
+"3-124":{"text": "You：用树枝和树皮来加固避难所","options": []},
+"3-125":{"text": "Alex：我不小心被刺伤了","options": []},
+"3-126":{"text": "Alex：怎么处理","options": []},
+
+"3-127":{"text": "Alex：可以告诉我吗","options": [{"choose":"1","to":"3-128"},{"choose":"2","to":"9-2"}]},
+"3-128":{"text": "You：清理伤口，用草药止血","options": []},
+"3-129":{"text": "Alex：我会坚持住的","options": []},
+"3-130":{"text": "Alex：等待救援队的到来","options": []},
+"3-131":{"text": "Alex：谢谢你","options": []},
+"4-132":{"text": "Alex：我发现了一些设备","options": []},
+"4-133":{"text": "You：能正常使用吗","options": []},
+"4-134":{"text": "Alex：不能，我不知道怎么修理","options": []},
+"4-135":{"text": "Alex：你可以告诉我方法吗","options": []},
+"4-136":{"text": "You：检查是否缺失部件","options": []},
+"4-137":{"text": "Alex：好的，有缺失部件","options": []},
+"4-138":{"text": "You：去寻找寻找","options": []},
+"4-139":{"text": "You：找到了吗","options": []},
+"4-140":{"text": "Alex：找到了一些部件","options": []},
+"4-141":{"text": "You：仔细检查设备","options": []},
+"4-142":{"text": "Alex：有破损的部件","options": []},
+"4-143":{"text": "You：需要找到替代品","options": []},
+"4-144":{"text": "Alex：找到了备用部件","options": []},
+"4-145":{"text": "Alex：我还找到了说明书","options": []},
+"4-146":{"text": "Alex：太好了","options": []},
+"4-147":{"text": "You：开始更换破损的部件吧","options": []},
+"4-148":{"text": "Alex：按照设备说明书进行正确的替换","options": []},
+"4-149":{"text": "Alex：我会谨慎的","options": []},
+"4-150":{"text": "Alex：我完成了替换","options": []},
+"4-151":{"text": "You：检查设备能正常工作吗","options": []},
+"4-152":{"text": "Alex：不能正常工作","options": []},
+"4-153":{"text": "You：需要再修理一下","options": []},
+"4-154":{"text": "Alex：我会尝试找到解决问题的方法","options": []},
+"4-155":{"text": "Alex：太难了","options": []},
+"4-156":{"text": "You：好的，加油，别放弃","options": []},
+"4-157":{"text": "Alex：我不会放弃","options": []},
+"4-158":{"text": "Alex：我会努力想出解决方案并尝试修复设备","options": []},
+"4-159":{"text": "You：尝试合并设备部件","options": []},
+"4-160":{"text": "Alex：我会尝试的","options": []},
+"4-161":{"text": "You：还需要电源","options": []},
+"4-162":{"text": "Alex：我会找到可靠的电源","options": []},
+"4-163":{"text": "You：需要设置正确的频率","options": []},
+"4-164":{"text": "Alex：才能确保信号被救援人员接收到","options": []},
+"4-165":{"text": "Alex：我打开了求救信号","options": []},
+"4-166":{"text": "Alex：信号发送成功了","options": []},
+"4-167":{"text": "You：太好了","options": []},
+"4-168":{"text": "Alex：搜救队就知道我的位置了","options": []},
+"4-169":{"text": "You：耐心等待救援人员的到来）","options": []},
+"4-170":{"text": "Alex：相信他们会尽快回应","options": [{"choose":"1","to":"9-4"},{"choose":"2","to":"4-171"}]},
+"4-171":{"text": "Alex：肚子饿了","options": []},
+"4-172":{"text": "You：需要寻找食物和水","options": []},
+"4-173":{"text": "Alex：我发现了椰子","options": []},
+"4-174":{"text": "You：好的，会用石头打破它","options": []},
+"4-175":{"text": "Alex：我成功打开了椰子","options": []},
+"4-176":{"text": "You：保持警惕并留意周围环境","options": []},
+"4-177":{"text": "Alex：我的救援信号被发现了","options": []},
+"4-178":{"text": "Alex：太激动了","options": []},
+"4-179":{"text": "You：看见救援队了吗","options": []},
+"4-180":{"text": "Alex：他们发现我了","options": []},
+"4-181":{"text": "Alex：他们正在向我的方向驶来","options": []},
+"4-182":{"text": "Alex：他们解救了我","options": []},
+"4-183":{"text": "Alex：感谢你，我成功了","options": []},
+"5-184":{"text": "You：你怎么了","options": []},
+"5-185":{"text": "Alex：我感觉好累，身体好像被什么东西划伤了","options": []},
+"5-186":{"text": "You：需要找到医疗用品来处理你的伤口","options": []},
+"5-187":{"text": "Alex：只是一些小伤","options": []},
+"5-188":{"text": "Alex：不需要特别的处理","options": []},
+"5-189":{"text": "You：不处理伤口，可能会感染","options": []},
+"5-190":{"text": "Alex：我们应该尽快寻找救援","options": []},
+"5-191":{"text": "Alex：我真的没事，不要担心","options": []},
+"5-192":{"text": "You：最重要的是找到信号源","options": []},
+"5-193":{"text": "Alex：谢谢你的关心","options": []},
+"5-194":{"text": "Alex：我感到有些虚弱","options": []},
+"5-195":{"text": "You：可能需要一些水和食物","options": []},
+"5-196":{"text": "Alex：我需要一些能量来恢复一下","options": []},
+"5-197":{"text": "You：要节约食物和水","options": []},
+"5-198":{"text": "You：要保持充足体力","options": []},
+"5-199":{"text": "Alex：是的，我们不能浪费任何资源","options": []},
+"5-200":{"text": "You：要尽量延长使用时间","options": []},
+"5-201":{"text": "Alex：发现一些急救用品","options": []},
+"5-202":{"text": "You：可以处理伤口","options": []},
+"5-203":{"text": "Alex：我相信伤口会慢慢愈合的","options": []},
+"5-204":{"text": "Alex：我在附近找到了一些树枝和叶子","options": []},
+"5-205":{"text": "You：需要搭建一个遮阳棚","options": []},
+"5-206":{"text": "You：可以帮助我避免暴晒","options": []},
+"5-207":{"text": "Alex：我应该尽早行动","options": []},
+"5-208":{"text": "You：做好准备等待救援","options": []},
+"5-209":{"text": "You：我会尽力配合你","options": []},
+"5-210":{"text": "Alex：但我真的感觉有些昏昏沉沉","options": []},
+"5-211":{"text": "Alex：我需要休息一会儿","options": [{"choose":"1","to":"9-7"},{"choose":"2","to":"5-212"}]},
+
+"5-212":{"text": "You：好的，尽量保持清醒","options": []},
+"5-213":{"text": "Alex：我真的很感激","options": []},
+"5-214":{"text": "Alex：我会坚信救援很快就会到来","options": []},
+"5-215":{"text": "Alex：只要我坚持，一切都会好起来","options": []},
+"5-216":{"text": "You：是的，相信你会离开这片孤岛","options": []},
+"5-217":{"text": "Alex：现在我来搭建遮阳棚","options": []},
+"5-218":{"text": "Alex：我会等待救援的到来","options": []},
+"5-219":{"text": "You：过程有点复杂","options": []},
+"5-220":{"text": "Alex：我需要更多的树枝","options": []},
+"5-221":{"text": "You：我相信你会成功的","options": []},
+"5-222":{"text": "Alex：有一艘船在远处","options": []},
+"5-223":{"text": "Alex：终于发现我了","options": []},
+"5-224":{"text": "Alex：我要尽快引起他们的注意","options": []},
+"5-225":{"text": "You：让他们知道我的位置","options": []},
+"5-226":{"text": "Alex：他们发现我了","options": []},
+"5-227":{"text": "Alex：他们正在向我的方向驶来","options": []},
+"5-228":{"text": "Alex：这真是个意外的救援","options": []},
+"5-229":{"text": "Alex：我感到无比幸运","options": []},
+"5-230":{"text": "Alex：他们成功解救了我","options": []},
+"5-231":{"text": "Alex：太感谢你，我成功了","options": [{"choose":"1","to":"6-232"},{"choose":"2","to":"9-1"}]},
+
+"6-232":{"text": "Alex：你好，我是一个幸存者","options": []},
+"6-233":{"text": "Alex：我需要食物和水，你能帮我吗","options": []},
+"6-234":{"text": "You：那里有一个野人，注意安全","options": []},
+"6-235":{"text": "Alex：他看起来不会攻击我","options": []},
+"6-236":{"text": "Alex：我想尝试和他沟通","options": []},
+"6-237":{"text": "Alex：你知道哪里有食物吗","options": []},
+"6-238":{"text": "You：他能听懂你说的话","options": []},
+"6-239":{"text": "Alex：太好了，一起去找资源吧","options": []},
+"6-240":{"text": "You：前面好像有一片果林","options": []},
+"6-241":{"text": "Alex：我们可以摘一些水果","options": []},
+"6-242":{"text": "Alex：这个水果看起来很美味，尝尝吧","options": []},
+"6-243":{"text": "You：他好像也喜欢这些水果","options": []},
+"6-244":{"text": "Alex：这些都给你吧","options": []},
+"6-245":{"text": "You：他看起来很高兴","options": []},
+"6-246":{"text": "You：我们还需要寻找一些水源","options": []},
+"6-247":{"text": "Alex：附近有河流吗","options": []},
+"6-248":{"text": "You：他应该知道河流的位置","options": []},
+"6-249":{"text": "Alex：太好了，希望能找到安全的水源","options": []},
+"6-250":{"text": "Alex：这里的水质看起来不错","options": []},
+"6-251":{"text": "Alex：太好了，我们终于找到可饮用的水了","options": []},
+"6-252":{"text": "You：附近有一片丛林","options": []},
+"6-253":{"text": "You：可以看看有没有其他食物","options": []},
+"6-254":{"text": "Alex：我看到了一只野兔","options": []},
+"6-255":{"text": "Alex：小心别把它吓跑了","options": []},
+"6-256":{"text": "You：你可以制作陷阱引诱野兔","options": []},
+"6-257":{"text": "Alex：我去找制作陷阱的东西吧","options": []},
+"6-258":{"text": "Alex：谢谢你找的树枝和藤蔓","options": []},
+"6-259":{"text": "You：把食物放在陷阱引诱野兔吧","options": []},
+"6-260":{"text": "Alex：成功了，我们捉到了一只野兔","options": []},
+"6-261":{"text": "You：可以找一些干柴来生火","options": []},
+"6-262":{"text": "Alex：一起去采集一些干柴吧","options": []},
+"6-263":{"text": "Alex：太好了，我们找到了一些木头","options": []},
+"6-264":{"text": "You：可以摩擦两块木头来生火","options": []},
+"6-265":{"text": "Alex：火成功生起来了","options": []},
+"6-266":{"text": "Alex：我们可以烹饪野兔了","options": []},
+"6-267":{"text": "You：他对生火好像很感兴趣","options": []},
+"6-268":{"text": "Alex：我下次可以教他生火","options": []},
+"6-269":{"text": "Alex：现在有更重要的事要做","options": []},
+"6-270":{"text": "Alex：我们先处理野兔吧","options": []},
+"6-271":{"text": "You：可以使用这些工具来处理野兔","options": []},
+"6-272":{"text": "Alex：烹饪完成了，我们有热腾腾的食物了","options": []},
+"6-273":{"text": "Alex：谢谢你的帮助","options": []},
+"6-274":{"text": "Alex：没有你我可能无法生存下去","options": []},
+"6-275":{"text": "You：你需要建造一个避难所","options": []},
+"6-276":{"text": "Alex：我们去找树枝来搭建避难所吧","options": []},
+"6-277":{"text": "Alex：感谢你的帮忙","options": []},
+"6-278":{"text": "Alex：我们一起努力搭建避难所吧","options": []},
+"6-279":{"text": "Alex：太感谢了我们成功了","options": []},
+"6-280":{"text": "Alex：避难所看起来很坚固","options": []},
+"6-281":{"text": "Alex：生活会好起来的","options": []},
+"6-282":{"text": "Alex：我们一起等待救援队的到来吧","options": [{"choose":"1","to":"9-6"},{"choose":"2","to":"8-336"}]},
+
+"7-283":{"text": "Alex：我需要帮助","options": []},
+"7-284":{"text": "Alex：你能帮助我吗","options": []},
+"7-285":{"text": "You：你怎么了","options": []},
+"7-286":{"text": "Alex：我感到非常饥渴和饥饿","options": []},
+"7-287":{"text": "Alex：我已经耗尽所有的食物和水","options": []},
+"7-288":{"text": "Alex：你知道哪里有食物吗","options": []},
+"7-289":{"text": "You：可以尝试去河边看看","options": []},
+"7-290":{"text": "Alex：太好了，一起去看看吧","options": []},
+"7-291":{"text": "You：前面好像有一片树林","options": []},
+"7-292":{"text": "Alex：我感到非常虚弱","options": []},
+"7-293":{"text": "You：这里有一棵果树","options": []},
+"7-294":{"text": "Alex：这些水果救了我一命","options": []},
+"7-295":{"text": "Alex：但是我还是很饿","options": []},
+"7-296":{"text": "Alex：我不知道该怎么办了","options": []},
+"7-297":{"text": "You：尝试寻找其他资源吧","options": []},
+"7-298":{"text": "Alex：我应该到哪里去呢","options": []},
+"7-299":{"text": "You：可以寻找动物的足迹","options": []},
+"7-300":{"text": "You：动物应该能找到食物吧","options": []},
+"7-301":{"text": "Alex：那我再试试吧","options": []},
+"7-302":{"text": "Alex：我需要一些时间来冷静一下","options": []},
+"7-303":{"text": "You：我看到了一只野兔","options": []},
+"7-304":{"text": "You：快跟着它","options": []},
+"7-305":{"text": "Alex：好的","options": []},
+"7-306":{"text": "Alex：糟糕我把它吓跑了","options": []},
+"7-307":{"text": "Alex：我的体力已经消耗殆尽","options": []},
+"7-308":{"text": "Alex：没有食物","options": []},
+"7-309":{"text": "Alex：我无法坚持下去了","options": [{"choose":"1","to":"9-7"},{"choose":"2","to":"7-300"}]},
+"7-310":{"text": "You：别灰心","options": []},
+"7-311":{"text": "You：还有活下去的机会","options": []},
+"7-312":{"text": "You：可以看看河里有没有鱼","options": []},
+"7-313":{"text": "Alex：我再试试吧","options": []},
+"7-314":{"text": "You：可以找一些树枝","options": []},
+"7-315":{"text": "You：把树枝削尖","options": []},
+"7-316":{"text": "Alex：我需要工具削树枝","options": []},
+"7-317":{"text": "Alex：我的背包里应该有一把小刀","options": []},
+"7-318":{"text": "You：很好，加油我的朋友","options": []},
+"7-319":{"text": "Alex：河水太湍急了","options": []},
+"7-320":{"text": "Alex：我没有办法摸清河水的情况","options": []},
+"7-321":{"text": "Alex：我只能等流速变慢了","options": []},
+"7-322":{"text": "You：你还能坚持吗","options": []},
+"7-323":{"text": "Alex：我感到身体越来越虚弱了","options": []},
+"7-324":{"text": "Alex：没有食物和水","options": []},
+"7-325":{"text": "Alex：我无法继续生存","options": []},
+"7-326":{"text": "You：你别无选择了","options": []},
+"7-327":{"text": "Alex：我只能再搏一把了","options": []},
+"7-328":{"text": "Alex：感谢你的帮忙","options": []},
+"7-329":{"text": "Alex：我要下去捉鱼了","options": []},
+"7-330":{"text": "Alex：如果我遇到了危险","options": []},
+"7-331":{"text": "Alex：请不要难过","options": []},
+"7-332":{"text": "Alex：我真的太饿了","options": []},
+"7-333":{"text": "Alex：再见了我的朋友","options": [{"choose":"1","to":"8-334"},{"choose":"2","to":"9-7"}]},
+
+"8-334":{"text": "Alex：我需要帮助","options": []},
+"8-335":{"text": "Alex：你能帮助我吗","options": []},
+"8-336":{"text": "You：怎么了","options": []},
+"8-337":{"text": "Alex：我想离开这个岛","options": []},
+"8-338":{"text": "Alex：我应该怎么办呢","options": []},
+"8-339":{"text": "You：你要有足够的食物和水","options": []},
+"8-340":{"text": "You：必须小心行事","options": []},
+"8-341":{"text": "You：这个岛很危险","options": []},
+"8-342":{"text": "Alex：好的","options": []},
+"8-343":{"text": "Alex：我会保持冷静","options": []},
+"8-344":{"text": "You：前面好像有一条河","options": []},
+"8-345":{"text": "Alex：我看到那条河了","options": []},
+"8-346":{"text": "Alex：河边好像有什么东西","options": []},
+"8-347":{"text": "You：记得保持警惕","options": []},
+"8-348":{"text": "Alex：我会小心的","options": []},
+"8-349":{"text": "Alex：原来是被雷劈倒的树","options": []},
+"8-350":{"text": "You：你有足够的水了","options": []},
+"8-351":{"text": "You：但你还需要找到食物","options": []},
+"8-352":{"text": "Alex：我不敢再往前走了","options": []},
+"8-353":{"text": "Alex：我担心我会迷路","options": []},
+"8-354":{"text": "You：看！那有一只野兔","options": []},
+"8-355":{"text": "Alex：我看到它了","options": []},
+"8-356":{"text": "Alex：它看起来很美味","options": []},
+"8-357":{"text": "Alex：我必须追上它","options": []},
+"8-358":{"text": "Alex：我追到它了","options": []},
+"8-359":{"text": "Alex：我的体力已经消耗殆尽了","options": []},
+"8-360":{"text": "You：天快黑了","options": []},
+"8-361":{"text": "Alex：我在哪里","options": []},
+"8-362":{"text": "Alex：我好像迷路了","options": []},
+"8-363":{"text": "You：你需要找到一个安全的住处","options": []},
+"8-364":{"text": "You：休息对于身体恢复很重要","options": []},
+"8-365":{"text": "Alex：前面好像有一个山洞","options": []},
+"8-366":{"text": "Alex：我可以在山洞过夜","options": []},
+"8-367":{"text": "You：我们要密切关注天气变化","options": []},
+"8-368":{"text": "You：天气对你的生存影响很大","options": []},
+"8-369":{"text": "Alex：天空中是什么","options": []},
+"8-370":{"text": "Alex：是乌云吗","options": []},
+"8-371":{"text": "Alex：怎么会这么黑","options": []},
+"8-372":{"text": "You：有一场暴风雨即将来临","options": []},
+"8-373":{"text": "You：注意安全我的朋友","options": []},
+"8-374":{"text": "Alex：我得在天黑之前赶到山洞","options": []},
+"8-375":{"text": "Alex：把火生起来","options": []},
+"8-376":{"text": "Alex：我需要去找一些树枝生火","options": []},
+"8-377":{"text": "You：暴风雨来了","options": []},
+"8-378":{"text": "Alex：我只能再搏一把了","options": []},
+"8-379":{"text": "Alex：我找到足够的树枝了","options": []},
+"8-380":{"text": "Alex：我要回山洞里去","options": []},
+"8-381":{"text": "You：远处好像有闪电","options": []},
+"8-382":{"text": "Alex：怎么离我这么近","options": []},
+"8-383":{"text": "Alex：我得赶快赶回去","options": []},
+"8-384":{"text": "Alex：啊啊啊","options": [{"choose":"1","to":"9-8"},{"choose":"2","to":"9-8"}]},
+
+
+"9-1":{"text": "Alex：我已经获得了救援，谢谢你","options": []},
+"9-2":{"text": "意外坠落高空受伤导致死亡","options": []},
+"9-3":{"text": "自救成功：学会了在孤岛上生存","options": []},
+"9-4":{"text": "研究设备求助：修理设备，获得救援","options": []},
+"9-5":{"text": "意外获救：幸存者受伤，没有采取行动","options": []},
+"9-6":{"text": "发现原始部落：通过玩家指导，最终成功获救","options": []},
+"9-7":{"text": "救援失败：最终不幸身亡","options": []},
+"9-8":{"text": "遭遇危险：被雷劈中身亡","options": []},
+"10-1":{"text":"游戏结束","options":[]}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
